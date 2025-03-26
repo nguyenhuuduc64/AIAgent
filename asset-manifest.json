@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ff537822.js",
-    "index.html": "/index.html",
-    "main.ff537822.js.map": "/static/js/main.ff537822.js.map"
+    "main.js": "/AIAGENT/static/js/main.ff537822.js",
+    "index.html": "/AIAGENT/index.html",
+    "main.ff537822.js.map": "/AIAGENT/static/js/main.ff537822.js.map"
   },
   "entrypoints": [
     "static/js/main.ff537822.js"
